@@ -17,7 +17,7 @@ Key Learning: I passed the exam, but in retrospect, I realize I could have had a
     2.	Hands-on Experience (at least SageMaker, Bedrock)<br>
     3.	Other AWS Documentation/Preparation materials <br>
         o	[**SageMaker Developer Guide** :](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-dg.pdf) (This is huge, find my curated notes from the guide below)<br>
-        o	[SageMaker Deep Dive](https://www.youtube.com/watch?v=uQc8Itd4UTs&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz) :  (YouTube Series – Bit outdated but still very helpful)
+        o	[SageMaker Deep Dive](https://www.youtube.com/watch?v=uQc8Itd4UTs&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz) :  (YouTube Series – Bit outdated but still very helpful) <br>
         o	AI Practitioner material revision :  (See my notes below)<br>
 
 **Others Prep options to consider** <br>
