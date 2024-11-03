@@ -25,17 +25,13 @@ Key Learning: I passed the exam, but in retrospect, I realize I could have had a
   o	Whizlabs: Ran out of time and haven't reviewed them <br>
   o	Marek Practice test: Ran out of time and haven't reviewed them<br>
 
-******My Resources******
-    •	AWS AI Practitioner Notes <br>
-    •	[AWS AI Practitioner Notes](./docs/AI Practitioner Notes/)<br>
-    •	Other AWS AI Services FAQs <br>
-    •	SageMaker Guide (Curated SageMaker DG notes) <br>
-    •	SageMaker FAQs <br>
+******My Resources****** (Refer to folders in the repo - /docs/)
+    •	AWS AI Practitioner Notes - Including other AWS AI services <br>
+    •	SageMaker Guide (Curated SageMaker DG notes and FAQs) <br>
     •	AWS Skill builder Notes (It should be Comprehensive by itself)
 
-******My Resources in audio******
+******My Resources in audio****** (Refer to folders in the repo - /audio/)
 For those who like to listen to audio, below are the comprehensive audios from the notes and training materials above. (prepared using **NotebookLM**)
-Audio Resources Link
 
 
 ******Contributing******:
