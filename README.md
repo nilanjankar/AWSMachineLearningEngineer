@@ -26,12 +26,12 @@ Key Learning: I passed the exam, but in retrospect, I realize I could have had a
   o	Marek Practice test: Ran out of time and haven't reviewed them<br>
 
 ******My Resources******
-•	AWS AI Practitioner Notes <br>
-•	[AWS AI Practitioner Notes](./docs/AI Practitioner Notes/)<br>
-•	Other AWS AI Services FAQs <br>
-•	SageMaker Guide (Curated SageMaker DG notes) <br>
-•	SageMaker FAQs <br>
-•	AWS Skill builder Notes (It should be Comprehensive by itself)
+    •	AWS AI Practitioner Notes <br>
+    •	[AWS AI Practitioner Notes](./docs/AI Practitioner Notes/)<br>
+    •	Other AWS AI Services FAQs <br>
+    •	SageMaker Guide (Curated SageMaker DG notes) <br>
+    •	SageMaker FAQs <br>
+    •	AWS Skill builder Notes (It should be Comprehensive by itself)
 
 ******My Resources in audio******
 For those who like to listen to audio, below are the comprehensive audios from the notes and training materials above. (prepared using **NotebookLM**)
@@ -39,11 +39,11 @@ Audio Resources Link
 
 
 ******Contributing******:
-Feel free to contribute by:
-1.	Forking the repository
-2.	Creating your feature branch
-3.	Committing your changes
-4.	Opening a pull request
+    Feel free to contribute by:
+        1.	Forking the repository
+        2.	Creating your feature branch
+        3.	Committing your changes
+        4.	Opening a pull request
 
 ******License******
 This project is licensed under the MIT License - relevant terms apply.
